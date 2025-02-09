@@ -7,6 +7,12 @@
 - Implement relationships, such as bridge tables and many-to-many relationships
 
 - Write calculations that use DAX variables and functions, such as iterators, table filtering, windowing, and information functions
+  - [Use DAX iterator functions in Power BI Desktop models](https://learn.microsoft.com/en-us/training/modules/dax-power-bi-iterator-functions/)
+  - [Modify DAX filter context in Power BI Desktop models](https://learn.microsoft.com/en-us/training/modules/dax-power-bi-modify-filter/)
+  - [WINDOW](https://learn.microsoft.com/en-us/dax/window-function-dax)
+  - [WINDOW](https://dax.guide/window/)
+  - [Window Functions](https://powerdobs.nl/blog/new-in-dax-window-functions/)
+  - [Information functions](https://learn.microsoft.com/en-us/dax/information-functions-daxs)
 
 - Implement calculation groups, dynamic format strings, and field parameters
 
@@ -62,12 +68,7 @@
 - Write calculations that use DAX variables and functions, such as
   iterators, table filtering, windowing, and information functions
 
-  - [Use DAX iterator functions in Power BI Desktop models](https://learn.microsoft.com/en-us/training/modules/dax-power-bi-iterator-functions/)
-  - [Modify DAX filter context in Power BI Desktop models](https://learn.microsoft.com/en-us/training/modules/dax-power-bi-modify-filter/)
-  - [WINDOW](https://learn.microsoft.com/en-us/dax/window-function-dax)
-  - [WINDOW](https://dax.guide/window/)
-  - [Window Functions](https://powerdobs.nl/blog/new-in-dax-window-functions/)
-  - [Information functions](https://learn.microsoft.com/en-us/dax/information-functions-daxs)
+
 
 - Implement calculation groups, dynamic strings, and field parameters
 
