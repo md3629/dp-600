@@ -8,6 +8,19 @@
 
 - Apply sensitivity labels to items
 
+#####################################old
+- Manage sensitivity labels in semantic models and lakehouses
+  
+  - [Power BI implementation planning: Information protection for Power BI](https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-info-protection)
+  - [Information protection in Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/governance/information-protection)
+  - [Sensitivity labels in Power BI](https://learn.microsoft.com/en-us/power-bi/enterprise/service-security-sensitivity-label-overview)
+  - [Enable sensitivity labels in Fabric](https://learn.microsoft.com/en-us/power-bi/enterprise/service-security-enable-data-sensitivity-labels)
+  - [How to apply sensitivity labels in Power BI](https://learn.microsoft.com/en-us/power-bi/enterprise/service-security-apply-data-sensitivity-labels)
+  - [Sensitivity label downstream inheritance](https://learn.microsoft.com/en-us/power-bi/enterprise/service-security-sensitivity-label-downstream-inheritance)
+  - [Audit schema for sensitivity labels in Power BI](https://learn.microsoft.com/en-us/power-bi/enterprise/service-security-sensitivity-label-audit-schema)
+  - [Data protection metrics report](https://learn.microsoft.com/en-us/power-bi/enterprise/service-security-data-protection-metrics-report)
+######################################################
+
 - Endorse items
 
 ## Maintain the analytics development lifecycle
@@ -144,16 +157,7 @@
     - [Distribute Power BI content to external guest users using Microsoft Entra B2B](https://learn.microsoft.com/en-us/power-bi/guidance/whitepaper-azure-b2b-power-bi)
     - [Power BI usage scenarios](https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-usage-scenario-overview)
 
-- Manage sensitivity labels in semantic models and lakehouses
-  
-  - [Power BI implementation planning: Information protection for Power BI](https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-info-protection)
-  - [Information protection in Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/governance/information-protection)
-  - [Sensitivity labels in Power BI](https://learn.microsoft.com/en-us/power-bi/enterprise/service-security-sensitivity-label-overview)
-  - [Enable sensitivity labels in Fabric](https://learn.microsoft.com/en-us/power-bi/enterprise/service-security-enable-data-sensitivity-labels)
-  - [How to apply sensitivity labels in Power BI](https://learn.microsoft.com/en-us/power-bi/enterprise/service-security-apply-data-sensitivity-labels)
-  - [Sensitivity label downstream inheritance](https://learn.microsoft.com/en-us/power-bi/enterprise/service-security-sensitivity-label-downstream-inheritance)
-  - [Audit schema for sensitivity labels in Power BI](https://learn.microsoft.com/en-us/power-bi/enterprise/service-security-sensitivity-label-audit-schema)
-  - [Data protection metrics report](https://learn.microsoft.com/en-us/power-bi/enterprise/service-security-data-protection-metrics-report)
+
 
 - Configure Fabric-enabled workspace settings
   
