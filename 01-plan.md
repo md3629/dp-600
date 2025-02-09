@@ -11,22 +11,22 @@
 - Endorse items
 
 ## Maintain the analytics development lifecycle
-Configure version control for a workspace
+- Configure version control for a workspace
 
-Create and manage a Power BI Desktop project (.pbip)
+- Create and manage a Power BI Desktop project (.pbip)
 
-Create and configure deployment pipelines
+- Create and configure deployment pipelines
 
-Perform impact analysis of downstream dependencies from lakehouses, data warehouses, dataflows, and semantic models
+- Perform impact analysis of downstream dependencies from lakehouses, data warehouses, dataflows, and semantic models
 
-Deploy and manage semantic models by using the XMLA endpoint
+- Deploy and manage semantic models by using the XMLA endpoint
 
-Create and update reusable assets, including Power BI template (.pbit) files, Power BI data source (.pbids) files, and shared semantic models
-
-
+- Create and update reusable assets, including Power BI template (.pbit) files, Power BI data source (.pbids) files, and shared semantic models
 
 
 
+
+######################## old
 - Identify requirements for a solution, including components, features,
   performance, and capacity stock-keeping units (SKUs)
 
