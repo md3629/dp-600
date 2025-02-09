@@ -1,3 +1,33 @@
+# Implement and manage semantic models (25–30%)
+## Design and build semantic models
+- Choose a storage mode
+
+- Implement a star schema for a semantic model
+
+- Implement relationships, such as bridge tables and many-to-many relationships
+
+- Write calculations that use DAX variables and functions, such as iterators, table filtering, windowing, and information functions
+
+- Implement calculation groups, dynamic format strings, and field parameters
+
+- Identify use cases for and configure large semantic model storage format
+
+- Design and build composite models
+
+## Optimize enterprise-scale semantic models
+- Implement performance improvements in queries and report visuals
+
+- Improve DAX performance
+
+- Configure Direct Lake, including default fallback and refresh behavior
+
+- Implement incremental refresh for semantic models
+
+
+
+
+
+######################################### old
 # Implement and manage semantic models (20–25%)
 
 ## Design and build semantic models
