@@ -1,6 +1,31 @@
-# Plan, implement, and manage a solution for data analytics (10–15%)
+# Maintain a data analytics solution (25–30%)
 
-## Plan a data analytics environment
+## Implement security and governance
+
+- Implement item-level access controls
+
+- Implement row-level, column-level, object-level, and file-level access control
+
+- Apply sensitivity labels to items
+
+- Endorse items
+
+## Maintain the analytics development lifecycle
+Configure version control for a workspace
+
+Create and manage a Power BI Desktop project (.pbip)
+
+Create and configure deployment pipelines
+
+Perform impact analysis of downstream dependencies from lakehouses, data warehouses, dataflows, and semantic models
+
+Deploy and manage semantic models by using the XMLA endpoint
+
+Create and update reusable assets, including Power BI template (.pbit) files, Power BI data source (.pbids) files, and shared semantic models
+
+
+
+
 
 - Identify requirements for a solution, including components, features,
   performance, and capacity stock-keeping units (SKUs)
