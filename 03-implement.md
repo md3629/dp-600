@@ -5,6 +5,7 @@
 - Implement a star schema for a semantic model
 
 - Implement relationships, such as bridge tables and many-to-many relationships
+ - [Many-to-many relationship guidance](https://learn.microsoft.com/en-us/power-bi/guidance/relationships-many-to-many)
 
 - Write calculations that use DAX variables and functions, such as iterators, table filtering, windowing, and information functions
   - [Use DAX iterator functions in Power BI Desktop models](https://learn.microsoft.com/en-us/training/modules/dax-power-bi-iterator-functions/)
@@ -63,7 +64,7 @@
 - Implement relationships, such as bridge tables and many-to-many
   relationships
 
-  - [Many-to-many relationship guidance](https://learn.microsoft.com/en-us/power-bi/guidance/relationships-many-to-many)
+ 
 
 - Write calculations that use DAX variables and functions, such as
   iterators, table filtering, windowing, and information functions
