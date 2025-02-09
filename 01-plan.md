@@ -9,7 +9,7 @@
 - Apply sensitivity labels to items
 
 #####################################old
-- Manage sensitivity labels in semantic models and lakehouses
+ Manage sensitivity labels in semantic models and lakehouses
   
   - [Power BI implementation planning: Information protection for Power BI](https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-info-protection)
   - [Information protection in Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/governance/information-protection)
