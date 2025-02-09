@@ -4,6 +4,13 @@
 
 - Implement a star schema for a semantic model
 
+  - [Semantic model modes in the Power BI service](https://learn.microsoft.com/en-us/power-bi/connect-data/service-dataset-modes-understand)
+  - [Manage storage mode in Power BI Desktop](https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-storage-mode)
+  - [Direct Lake](https://learn.microsoft.com/en-us/power-bi/enterprise/directlake-overview)
+  - [Analyze query processing for Direct Lake datasets](https://learn.microsoft.com/en-us/power-bi/enterprise/directlake-analyze-qp)
+  - [How direct lake mode works with Power BI reporting](https://learn.microsoft.com/en-us/fabric/data-engineering/lakehouse-pbi-reporting)
+  - [Default Power BI semantic models in Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/data-warehouse/semantic-models)
+
 - Implement relationships, such as bridge tables and many-to-many relationships
   - [Many-to-many relationship guidance](https://learn.microsoft.com/en-us/power-bi/guidance/relationships-many-to-many)
 
@@ -41,12 +48,7 @@
 
 - Choose a storage mode, including Direct Lake
 
-  - [Semantic model modes in the Power BI service](https://learn.microsoft.com/en-us/power-bi/connect-data/service-dataset-modes-understand)
-  - [Manage storage mode in Power BI Desktop](https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-storage-mode)
-  - [Direct Lake](https://learn.microsoft.com/en-us/power-bi/enterprise/directlake-overview)
-  - [Analyze query processing for Direct Lake datasets](https://learn.microsoft.com/en-us/power-bi/enterprise/directlake-analyze-qp)
-  - [How direct lake mode works with Power BI reporting](https://learn.microsoft.com/en-us/fabric/data-engineering/lakehouse-pbi-reporting)
-  - [Default Power BI semantic models in Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/data-warehouse/semantic-models)
+
 
 - Identify use cases for DAX Studio and Tabular Editor 2
 
