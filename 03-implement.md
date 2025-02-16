@@ -40,13 +40,23 @@
 
 ## Optimize enterprise-scale semantic models
 - Implement performance improvements in queries and report visuals
+  - [Optimization guide for Power BI](https://learn.microsoft.com/en-us/power-bi/guidance/power-bi-optimization)
+  - [Optimize ribbon in Power BI Desktop](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-optimize-ribbon)
+  - [DirectQuery optimization scenarios with the Optimize ribbon](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-optimize-ribbon-scenarios)
+  - [Use Performance Analyzer to examine report element performance in Power BI Desktop](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-performance-analyzer)
+  - [Power BI implementation planning: Data-level auditing](https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-auditing-monitoring-data-level-auditing)
 
 - Improve DAX performance
+  - [Troubleshoot DAX performance by using DAX Studio](https://learn.microsoft.com/en-us/training/modules/use-tools-optimize-power-bi-performance/3-troubleshoot-dax-performance-use-dax-studio)
 
 - Configure Direct Lake, including default fallback and refresh behavior
 
 - Implement incremental refresh for semantic models
 
+  - [Incremental refresh and real-time data for semantic models](https://learn.microsoft.com/en-us/power-bi/connect-data/incremental-refresh-overview)
+  - [Configure incremental refresh and real-time data](https://learn.microsoft.com/en-us/power-bi/connect-data/incremental-refresh-configure)
+  - [Advanced incremental refresh and real-time data with the XMLA endpoint](https://learn.microsoft.com/en-us/power-bi/connect-data/incremental-refresh-xmla)
+  - [Troubleshoot incremental refresh and real-time data](https://learn.microsoft.com/en-us/power-bi/connect-data/incremental-refresh-troubleshoot)
 
 
 
@@ -72,25 +82,7 @@
 
 
 
-- Implement relationships, such as bridge tables and many-to-many
-  relationships
 
- 
-
-- Write calculations that use DAX variables and functions, such as
-  iterators, table filtering, windowing, and information functions
-
-
-
-- Implement calculation groups, dynamic strings, and field parameters
-
- 
-
-- Design and build a large format dataset
-
-  
-
-- Design and build composite models that include aggregations
 
   
 
@@ -107,25 +99,11 @@
 
 ## Optimize enterprise-scale semantic models
 
-- Implement performance improvements in queries and report visuals
-
-  - [Optimization guide for Power BI](https://learn.microsoft.com/en-us/power-bi/guidance/power-bi-optimization)
-  - [Optimize ribbon in Power BI Desktop](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-optimize-ribbon)
-  - [DirectQuery optimization scenarios with the Optimize ribbon](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-optimize-ribbon-scenarios)
-  - [Use Performance Analyzer to examine report element performance in Power BI Desktop](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-performance-analyzer)
-  - [Power BI implementation planning: Data-level auditing](https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-auditing-monitoring-data-level-auditing)
-
-- Improve DAX performance by using DAX Studio
-
-  - [Troubleshoot DAX performance by using DAX Studio](https://learn.microsoft.com/en-us/training/modules/use-tools-optimize-power-bi-performance/3-troubleshoot-dax-performance-use-dax-studio)
 
 - Optimize a semantic model by using Tabular Editor 2
 
   - [Best Practice Analyzer](https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-auditing-monitoring-data-level-auditing)
 
-- Implement incremental refresh
 
-  - [Incremental refresh and real-time data for semantic models](https://learn.microsoft.com/en-us/power-bi/connect-data/incremental-refresh-overview)
-  - [Configure incremental refresh and real-time data](https://learn.microsoft.com/en-us/power-bi/connect-data/incremental-refresh-configure)
-  - [Advanced incremental refresh and real-time data with the XMLA endpoint](https://learn.microsoft.com/en-us/power-bi/connect-data/incremental-refresh-xmla)
-  - [Troubleshoot incremental refresh and real-time data](https://learn.microsoft.com/en-us/power-bi/connect-data/incremental-refresh-troubleshoot)
+
+  
