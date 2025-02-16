@@ -38,6 +38,5 @@ Create a data connection
    - Book: [Must Learn KQL](https://github.com/rod-trent/MustLearnKQL)
 
    - General: [Data analysis with Kusto Query Language](https://learn.microsoft.com/en-us/training/paths/kusto-query-language/?view=microsoft-fabric)
-      - [Microsoft Fabric decision guide: copy activity, dataflow, or Spark](https://learn.microsoft.com/en-us/fabric/get-started/decision-guide-pipeline-dataflow-spark)
-
+      
 
