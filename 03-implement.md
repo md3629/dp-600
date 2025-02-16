@@ -23,6 +23,9 @@
   - [Information functions](https://learn.microsoft.com/en-us/dax/information-functions-daxs)
 
 - Implement calculation groups, dynamic format strings, and field parameters
+   - [Create calculation groups](https://learn.microsoft.com/en-us/power-bi/transform-model/calculation-groups)
+  - [Create dynamic format strings for measures](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-dynamic-format-strings)
+  - [Let report readers use field parameters to change visuals (preview)](https://learn.microsoft.com/en-us/power-bi/create-reports/power-bi-field-parameters)
 
 - Identify use cases for and configure large semantic model storage format
 
@@ -75,9 +78,7 @@
 
 - Implement calculation groups, dynamic strings, and field parameters
 
-  - [Create calculation groups](https://learn.microsoft.com/en-us/power-bi/transform-model/calculation-groups)
-  - [Create dynamic format strings for measures](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-dynamic-format-strings)
-  - [Let report readers use field parameters to change visuals (preview)](https://learn.microsoft.com/en-us/power-bi/create-reports/power-bi-field-parameters)
+ 
 
 - Design and build a large format dataset
 
