@@ -10,6 +10,8 @@
   - [Analyze query processing for Direct Lake datasets](https://learn.microsoft.com/en-us/power-bi/enterprise/directlake-analyze-qp)
   - [How direct lake mode works with Power BI reporting](https://learn.microsoft.com/en-us/fabric/data-engineering/lakehouse-pbi-reporting)
   - [Default Power BI semantic models in Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/data-warehouse/semantic-models)
+  - [Understand star schema and the importance for Power BI](https://learn.microsoft.com/en-us/power-bi/guidance/star-schema)
+  - [Slowly changing dimensions](https://en.wikipedia.org/wiki/Slowly_changing_dimension)
 
 - Implement relationships, such as bridge tables and many-to-many relationships
   - [Many-to-many relationship guidance](https://learn.microsoft.com/en-us/power-bi/guidance/relationships-many-to-many)
@@ -68,8 +70,7 @@
 
 - Implement a star schema for a semantic model
 
-  - [Understand star schema and the importance for Power BI](https://learn.microsoft.com/en-us/power-bi/guidance/star-schema)
-  - [Slowly changing dimensions](https://en.wikipedia.org/wiki/Slowly_changing_dimension)
+
 
 - Implement relationships, such as bridge tables and many-to-many
   relationships
