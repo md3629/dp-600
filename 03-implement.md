@@ -30,6 +30,10 @@
 - Identify use cases for and configure large semantic model storage format
 
 - Design and build composite models
+  - [Use composite models in Power BI Desktop](https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-composite-models)
+  - [Composite model guidance in Power BI Desktop](https://learn.microsoft.com/en-us/power-bi/guidance/composite-model-guidance)
+  - [User-defined aggregations](https://learn.microsoft.com/en-us/power-bi/transform-model/aggregations-advanced)
+  - [Automatic aggregations](https://learn.microsoft.com/en-us/power-bi/enterprise/aggregations-auto)
 
 ## Optimize enterprise-scale semantic models
 - Implement performance improvements in queries and report visuals
@@ -86,10 +90,7 @@
 
 - Design and build composite models that include aggregations
 
-  - [Use composite models in Power BI Desktop](https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-composite-models)
-  - [Composite model guidance in Power BI Desktop](https://learn.microsoft.com/en-us/power-bi/guidance/composite-model-guidance)
-  - [User-defined aggregations](https://learn.microsoft.com/en-us/power-bi/transform-model/aggregations-advanced)
-  - [Automatic aggregations](https://learn.microsoft.com/en-us/power-bi/enterprise/aggregations-auto)
+  
 
 - Implement dynamic row-level security and object-level security
 
