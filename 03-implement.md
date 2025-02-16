@@ -28,6 +28,7 @@
   - [Let report readers use field parameters to change visuals (preview)](https://learn.microsoft.com/en-us/power-bi/create-reports/power-bi-field-parameters)
 
 - Identify use cases for and configure large semantic model storage format
+  - [Large semantic models in Power BI Premium](https://learn.microsoft.com/en-us/power-bi/enterprise/service-premium-large-models)
 
 - Design and build composite models
   - [Use composite models in Power BI Desktop](https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-composite-models)
@@ -86,7 +87,7 @@
 
 - Design and build a large format dataset
 
-  - [Large semantic models in Power BI Premium](https://learn.microsoft.com/en-us/power-bi/enterprise/service-premium-large-models)
+  
 
 - Design and build composite models that include aggregations
 
