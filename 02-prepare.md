@@ -1,6 +1,7 @@
 # Prepare data (45–50%)
 ## Get data
-Create a data connection
+- Create a data connection
+   - [Connector overview](https://learn.microsoft.com/en-us/fabric/data-factory/connector-overview)
 
 - Discover data by using OneLake data hub and real-time hub
 
