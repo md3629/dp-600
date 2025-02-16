@@ -59,7 +59,7 @@ The exam for this certification is **Exam DP-600T00**.
   - Convert column data types.
   - Filter data.
 
-- ** Query and Analyze Data**
+- **Query and Analyze Data**
 
   - Select, filter, and aggregate data using the **Visual Query Editor**.
   - Select, filter, and aggregate data using **SQL**.
