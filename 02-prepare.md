@@ -40,5 +40,6 @@
 
    - General: [Data analysis with Kusto Query Language](https://learn.microsoft.com/en-us/training/paths/kusto-query-language/?view=microsoft-fabric)
       - [Explore the fundamentals of data analysis using Kusto Query Language (KQL)](https://learn.microsoft.com/en-us/training/modules/explore-fundamentals-kql/)
+      - [Write your first query with Kusto Query Language](https://learn.microsoft.com/en-us/training/modules/write-first-query-kusto-query-language/)
       
 
