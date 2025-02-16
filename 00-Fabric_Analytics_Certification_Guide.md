@@ -95,6 +95,7 @@ Microsoft offers free courses to build foundational knowledge. Start with these 
 
 - [Get Started with Microsoft Fabric](https://learn.microsoft.com/en-us/training/modules/intro-to-microsoft-fabric/)
 - Labs: [https://github.com/MicrosoftLearning/mslearn-fabric]
+- [Microsoft Fabric fundamentals documentation](https://learn.microsoft.com/en-us/fabric/fundamentals/)
 - Lakehouses and Synapse Analytics tutorials.
 - Power BI data modeling and visualization.
 
