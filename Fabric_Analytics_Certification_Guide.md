@@ -1,4 +1,4 @@
-# Transitioning from MCSE: Data Management and Analytics to Microsoft Certified: Fabric Analytics Engineer Associate
+# 00 - Transitioning from MCSE: Data Management and Analytics to Microsoft Certified: Fabric Analytics Engineer Associate
 
 This guide provides detailed steps to transition your skills from **MCSE: Data Management and Analytics** to the **Microsoft Certified: Fabric Analytics Engineer Associate** certification and prepares you for the new exam.
 
