@@ -39,52 +39,52 @@ The exam for this certification is **Exam DP-600T00**.
 
 ### Prepare Data (45–50%)
 
-#### Get Data
+- **Get Data**
 
-- Create a data connection.
-- Discover data using **OneLake Data Hub** and **Real-Time Hub**.
-- Ingest or access data as needed.
-- Choose between a **lakehouse**, **warehouse**, or **eventhouse**.
-- Implement **OneLake integration** for eventhouse and semantic models.
+  - Create a data connection.
+  - Discover data using **OneLake Data Hub** and **Real-Time Hub**.
+  - Ingest or access data as needed.
+  - Choose between a **lakehouse**, **warehouse**, or **eventhouse**.
+  - Implement **OneLake integration** for eventhouse and semantic models.
 
-#### Transform Data
+- **Transform Data**
 
-- Create views, functions, and stored procedures.
-- Enrich data by adding new columns or tables.
-- Implement a **star schema** for a lakehouse or warehouse.
-- Denormalize data.
-- Aggregate data.
-- Merge or join data.
-- Identify and resolve duplicate data, missing data, or null values.
-- Convert column data types.
-- Filter data.
+  - Create views, functions, and stored procedures.
+  - Enrich data by adding new columns or tables.
+  - Implement a **star schema** for a lakehouse or warehouse.
+  - Denormalize data.
+  - Aggregate data.
+  - Merge or join data.
+  - Identify and resolve duplicate data, missing data, or null values.
+  - Convert column data types.
+  - Filter data.
 
-#### Query and Analyze Data
+- ** Query and Analyze Data**
 
-- Select, filter, and aggregate data using the **Visual Query Editor**.
-- Select, filter, and aggregate data using **SQL**.
-- Select, filter, and aggregate data using **KQL**.
+  - Select, filter, and aggregate data using the **Visual Query Editor**.
+  - Select, filter, and aggregate data using **SQL**.
+  - Select, filter, and aggregate data using **KQL**.
 
 ---
 
 ### Implement and Manage Semantic Models (25–30%)
 
-#### Design and Build Semantic Models
+- **Design and Build Semantic Models**
 
-- Choose a storage mode.
-- Implement a **star schema** for a semantic model.
-- Implement relationships, such as **bridge tables** and **many-to-many relationships**.
-- Write calculations using **DAX variables** and functions (e.g., iterators, table filtering, windowing, and information functions).
-- Implement **calculation groups**, **dynamic format strings**, and **field parameters**.
-- Identify use cases for and configure large semantic model storage formats.
-- Design and build **composite models**.
+  - Choose a storage mode.
+  - Implement a **star schema** for a semantic model.
+  - Implement relationships, such as **bridge tables** and **many-to-many relationships**.
+  - Write calculations using **DAX variables** and functions (e.g., iterators, table filtering, windowing, and information functions).
+  - Implement **calculation groups**, **dynamic format strings**, and **field parameters**.
+  - Identify use cases for and configure large semantic model storage formats.
+  - Design and build **composite models**.
 
-#### Optimize Enterprise-Scale Semantic Models
+- **Optimize Enterprise-Scale Semantic Models**
 
-- Implement performance improvements in queries and report visuals.
-- Improve DAX performance.
-- Configure **Direct Lake**, including default fallback and refresh behavior.
-- Implement **incremental refresh** for semantic models.
+  - Implement performance improvements in queries and report visuals.
+  - Improve DAX performance.
+  - Configure **Direct Lake**, including default fallback and refresh behavior.
+  - Implement **incremental refresh** for semantic models.
 
 ---
 
