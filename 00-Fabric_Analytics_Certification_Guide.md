@@ -102,6 +102,7 @@ Microsoft offers free courses to build foundational knowledge. Start with these 
 ### 2. Training Courses (Instructor-led or Self-paced)
 Consider official courses like **DP-600T00** for in-depth training on:
 
+- [Microsoft Fabric Analytics Engineer](https://learn.microsoft.com/en-us/training/courses/dp-600t00)
 - Fabric data integration and pipelines.
 - Analytics and performance optimization.
 - **OneLake** and **Delta Lake** storage management.
