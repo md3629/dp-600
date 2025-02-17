@@ -227,8 +227,9 @@ If you already hold a CIMA qualification and want to expand your data and analyt
 
 4. **If Your Organization Uses Broader Azure Services**  
    **Azure Enterprise Data Analyst (DP-500)** covers a wide array of Azure analytics services for large-scale or multi-cloud data environments.
+   Will retire on March 31, 2025
 
-5. **If You Need Predictive Modeling and Machine Learning**  
+6. **If You Need Predictive Modeling and Machine Learning**  
    **Azure Data Scientist Associate (DP-100)** equips you with ML and AI techniques, aiding in advanced forecasting, anomaly detection, and scenario simulation.
 
 ---
