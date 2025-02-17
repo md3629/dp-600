@@ -222,11 +222,11 @@ If you already hold a CIMA qualification and want to expand your data and analyt
 2. **If You Need Rapid BI Skills**  
    **Power BI Data Analyst (PL-300)** is a more targeted certification focusing on Power BI dashboards, data modeling, and basic data prep.
 
-3. **If You Work with Microsoft Dynamics 365**  
-   **Dynamics 365 Finance (MB-310)** extends your CIMA knowledge into hands-on ERP finance modules, bridging accounting theory with daily financial operations.
+3. ~~**If You Work with Microsoft Dynamics 365**~~  
+   ~~**Dynamics 365 Finance (MB-310)** extends your CIMA knowledge into hands-on ERP finance modules, bridging accounting theory with daily financial operations.~~
 
-4. **If Your Organization Uses Broader Azure Services**  
-   **Azure Enterprise Data Analyst (DP-500)** covers a wide array of Azure analytics services for large-scale or multi-cloud data environments.
+4. ~~**If Your Organization Uses Broader Azure Services**  
+   **Azure Enterprise Data Analyst (DP-500)** covers a wide array of Azure analytics services for large-scale or multi-cloud data environments.~~
    Will retire on March 31, 2025
 
 6. **If You Need Predictive Modeling and Machine Learning**  
