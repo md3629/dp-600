@@ -32,8 +32,10 @@
 
 ## Query and analyze data
 - Select, filter, and aggregate data by using the Visual Query Editor
+   - [Query using the visual query editor](https://learn.microsoft.com/en-us/fabric/data-warehouse/visual-query-editor) 
 
 - Select, filter, and aggregate data by using SQL
+   - [Query using the SQL query editor](https://learn.microsoft.com/en-us/fabric/data-warehouse/sql-query-editor)
 
 - Select, filter, and aggregate data by using KQL
    - Book: [Must Learn KQL](https://github.com/rod-trent/MustLearnKQL)
