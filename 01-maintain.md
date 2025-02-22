@@ -2,6 +2,8 @@
 
 ## Implement security and governance
 
+-
+- [Overview](https://learn.microsoft.com/en-us/fabric/security/security-overview)
 - Implement item-level access controls
 
 - Implement row-level, column-level, object-level, and file-level access control
