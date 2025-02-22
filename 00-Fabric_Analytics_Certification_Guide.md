@@ -95,6 +95,7 @@ Microsoft offers free courses to build foundational knowledge. Start with these 
 
 - [Get Started with Microsoft Fabric](https://learn.microsoft.com/en-us/training/paths/get-started-fabric/)
   - [Introduction to end-to-end analytics using Microsoft Fabric](https://learn.microsoft.com/en-us/training/modules/introduction-end-analytics-use-microsoft-fabric/)
+    - [What is Microsoft Fabric admin?](https://learn.microsoft.com/en-us/fabric/admin/microsoft-fabric-admin)
   - [Get started with lakehouses in Microsoft Fabric](https://learn.microsoft.com/en-us/training/modules/get-started-lakehouses/)
     - [How to create an Apache Spark job definition in Fabric](https://learn.microsoft.com/en-us/fabric/data-engineering/create-spark-job-definition)
     - [OneLake shortcuts](https://learn.microsoft.com/en-us/fabric/onelake/onelake-shortcuts)
