@@ -2,7 +2,6 @@
 
 ## Implement security and governance
 
--
 - [Overview](https://learn.microsoft.com/en-us/fabric/security/security-overview)
 - Implement item-level access controls
 
