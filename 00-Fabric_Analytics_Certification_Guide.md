@@ -93,7 +93,8 @@ The exam for this certification is **Exam DP-600T00**.
 ### 1. Microsoft Learn (Free)
 Microsoft offers free courses to build foundational knowledge. Start with these modules:
 
-- [Get Started with Microsoft Fabric](https://learn.microsoft.com/en-us/training/modules/intro-to-microsoft-fabric/)
+- [Get Started with Microsoft Fabric](https://learn.microsoft.com/en-us/training/paths/get-started-fabric/)
+- 
 - Labs: [https://github.com/MicrosoftLearning/mslearn-fabric]
 - [Microsoft Fabric fundamentals documentation](https://learn.microsoft.com/en-us/fabric/fundamentals/)
 - Lakehouses and Synapse Analytics tutorials.
