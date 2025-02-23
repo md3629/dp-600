@@ -94,13 +94,19 @@ The exam for this certification is **Exam DP-600T00**.
 Microsoft offers free courses to build foundational knowledge. Start with these modules:
 
 - [Get Started with Microsoft Fabric](https://learn.microsoft.com/en-us/training/paths/get-started-fabric/)
+
   - [Introduction to end-to-end analytics using Microsoft Fabric](https://learn.microsoft.com/en-us/training/modules/introduction-end-analytics-use-microsoft-fabric/)
     - [What is Microsoft Fabric admin?](https://learn.microsoft.com/en-us/fabric/admin/microsoft-fabric-admin)
+
   - [Get started with lakehouses in Microsoft Fabric](https://learn.microsoft.com/en-us/training/modules/get-started-lakehouses/)
     - [How to create an Apache Spark job definition in Fabric](https://learn.microsoft.com/en-us/fabric/data-engineering/create-spark-job-definition)
     - [OneLake shortcuts](https://learn.microsoft.com/en-us/fabric/onelake/onelake-shortcuts)
     - [Data Engineering documentation in Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/data-engineering/)
     - [Exercise - Create a Microsoft Fabric lakehouse](https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/01-lakehouse.html)
+
+- [Use Apache Spark in Microsoft Fabric](https://learn.microsoft.com/en-us/training/modules/use-apache-spark-work-files-lakehouse/)
+  - [Capacity administration settings for Data Engineering and Data Science](https://learn.microsoft.com/en-us/fabric/data-engineering/capacity-settings-overview)
+
 - [Labs](https://github.com/MicrosoftLearning/mslearn-fabric)
 - [Microsoft Fabric fundamentals documentation](https://learn.microsoft.com/en-us/fabric/fundamentals/)
 - Lakehouses and Synapse Analytics tutorials.
