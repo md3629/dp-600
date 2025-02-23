@@ -113,6 +113,8 @@ Microsoft offers free courses to build foundational knowledge. Start with these 
     - [Native execution engine for Fabric Spark](https://learn.microsoft.com/en-us/fabric/data-engineering/native-execution-engine-overview?tabs=sparksql)
     - [High concurrency mode in Apache Spark for Fabric](https://learn.microsoft.com/en-us/fabric/data-engineering/high-concurrency-overview)
     - [Configure and manage data engineering and data science settings for Fabric capacities](https://learn.microsoft.com/en-us/fabric/data-engineering/capacity-settings-management)
+    - [Analyze data with Apache Spark in Fabric](https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/02-analyze-spark.html)
+    - [Spark SQL, DataFrames and Datasets Guide](https://spark.apache.org/docs/latest/sql-programming-guide.html)
 
 - [Labs](https://github.com/MicrosoftLearning/mslearn-fabric)
 - [Microsoft Fabric fundamentals documentation](https://learn.microsoft.com/en-us/fabric/fundamentals/)
