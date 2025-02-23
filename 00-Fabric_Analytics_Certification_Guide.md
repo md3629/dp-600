@@ -135,6 +135,11 @@ Microsoft offers free courses to build foundational knowledge.
     - [Exercise - Create and use a Dataflow Gen2 in Microsoft Fabric](https://learn.microsoft.com/en-us/training/modules/use-dataflow-gen-2-fabric/5-exercise)
    
   - [Get started with data warehouses in Microsoft Fabric](https://learn.microsoft.com/en-gb/training/modules/get-started-data-warehouse/)
+    - [Understand star schema and the importance for Power BI](https://learn.microsoft.com/en-us/power-bi/guidance/star-schema)
+    - [Clone table in Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/data-warehouse/clone-table)
+    - [Tutorial: Clone a table with T-SQL in a Warehouse](https://learn.microsoft.com/en-us/fabric/data-warehouse/tutorial-clone-table)
+    - [Tables in data warehousing in Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/data-warehouse/tables)
+    - [Diagram view](https://learn.microsoft.com/en-us/power-query/diagram-view)
 
 - [Labs](https://github.com/MicrosoftLearning/mslearn-fabric)
 - [Microsoft Fabric fundamentals documentation](https://learn.microsoft.com/en-us/fabric/fundamentals/)
