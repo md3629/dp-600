@@ -91,7 +91,9 @@ The exam for this certification is **Exam DP-600T00**.
 ## 3. Study Resources and Training
 
 ### 1. Microsoft Learn (Free)
-Microsoft offers free courses to build foundational knowledge. Start with these modules:
+Microsoft offers free courses to build foundational knowledge.
+
+[Microsoft Fabric Analytics Engineer](https://learn.microsoft.com/en-us/training/courses/dp-600t00)
 
 - [Get Started with Microsoft Fabric](https://learn.microsoft.com/en-us/training/paths/get-started-fabric/)
 
