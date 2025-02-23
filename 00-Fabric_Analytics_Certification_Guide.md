@@ -117,6 +117,8 @@ Microsoft offers free courses to build foundational knowledge. Start with these 
     - [Spark SQL, DataFrames and Datasets Guide](https://spark.apache.org/docs/latest/sql-programming-guide.html)
    
   - [Work with Delta Lake tables in Microsoft Fabric](https://learn.microsoft.com/en-us/training/modules/work-delta-lake-tables-fabric/)
+    - [Structured Streaming Programming Guide](https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html)
+    - [Exercise - Use delta tables in Apache Spark](https://learn.microsoft.com/en-us/training/modules/work-delta-lake-tables-fabric/6-exercise-delta-tables)
 
 - [Labs](https://github.com/MicrosoftLearning/mslearn-fabric)
 - [Microsoft Fabric fundamentals documentation](https://learn.microsoft.com/en-us/fabric/fundamentals/)
