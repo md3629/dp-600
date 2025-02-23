@@ -106,6 +106,8 @@ Microsoft offers free courses to build foundational knowledge. Start with these 
 
 - [Use Apache Spark in Microsoft Fabric](https://learn.microsoft.com/en-us/training/modules/use-apache-spark-work-files-lakehouse/)
   - [Capacity administration settings for Data Engineering and Data Science](https://learn.microsoft.com/en-us/fabric/data-engineering/capacity-settings-overview)
+  - [Configuring starter pools in Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/data-engineering/capacity-settings-overview)
+  - [How to create custom Spark pools in Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/data-engineering/create-custom-spark-pools)
 
 - [Labs](https://github.com/MicrosoftLearning/mslearn-fabric)
 - [Microsoft Fabric fundamentals documentation](https://learn.microsoft.com/en-us/fabric/fundamentals/)
