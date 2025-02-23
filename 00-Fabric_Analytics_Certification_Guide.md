@@ -115,6 +115,8 @@ Microsoft offers free courses to build foundational knowledge. Start with these 
     - [Configure and manage data engineering and data science settings for Fabric capacities](https://learn.microsoft.com/en-us/fabric/data-engineering/capacity-settings-management)
     - [Analyze data with Apache Spark in Fabric](https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/02-analyze-spark.html)
     - [Spark SQL, DataFrames and Datasets Guide](https://spark.apache.org/docs/latest/sql-programming-guide.html)
+   
+- [Work with Delta Lake tables in Microsoft Fabric](https://learn.microsoft.com/en-us/training/modules/work-delta-lake-tables-fabric/)
 
 - [Labs](https://github.com/MicrosoftLearning/mslearn-fabric)
 - [Microsoft Fabric fundamentals documentation](https://learn.microsoft.com/en-us/fabric/fundamentals/)
