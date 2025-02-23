@@ -15,7 +15,7 @@ The **Fabric Analytics Engineer Associate** certification validates your experti
 
 The exam for this certification is **Exam DP-600T00**.
 
----
+--
 
 ## 2. Key Skills Transition Guide
 
