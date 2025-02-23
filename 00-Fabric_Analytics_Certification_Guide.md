@@ -126,6 +126,7 @@ Microsoft offers free courses to build foundational knowledge. Start with these 
 
   - [Ingest Data with Dataflows Gen2 in Microsoft Fabric](https://learn.microsoft.com/en-us/training/modules/use-dataflow-gen-2-fabric/)
     - [Power Query documentation](https://learn.microsoft.com/en-us/power-query/)
+    - [Exercise - Create and use a Dataflow Gen2 in Microsoft Fabric](https://learn.microsoft.com/en-us/training/modules/use-dataflow-gen-2-fabric/5-exercise)
 
 - [Labs](https://github.com/MicrosoftLearning/mslearn-fabric)
 - [Microsoft Fabric fundamentals documentation](https://learn.microsoft.com/en-us/fabric/fundamentals/)
