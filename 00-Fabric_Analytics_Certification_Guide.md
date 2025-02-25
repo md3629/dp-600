@@ -154,6 +154,10 @@ Microsoft offers free courses to build foundational knowledge.
    
   - [Get started with data science in Microsoft Fabric](https://learn.microsoft.com/en-us/training/modules/get-started-data-science-fabric/)
     - [Exercise - Explore data science in Microsoft Fabric](https://learn.microsoft.com/en-us/training/modules/get-started-data-science-fabric/5-exercise-use-notebook)
+   
+  - [Administer a Microsoft Fabric environment](https://learn.microsoft.com/en-us/training/modules/administer-fabric/)
+    - [What is Microsoft Fabric admin?](https://learn.microsoft.com/en-us/fabric/admin/microsoft-fabric-admin)
+    - [Microsoft Power BI Cmdlets for Windows PowerShell and PowerShell Core](https://learn.microsoft.com/en-us/powershell/power-bi/overview?view=powerbi-ps)
 
 - [Labs](https://github.com/MicrosoftLearning/mslearn-fabric)
 - [Microsoft Fabric fundamentals documentation](https://learn.microsoft.com/en-us/fabric/fundamentals/)
