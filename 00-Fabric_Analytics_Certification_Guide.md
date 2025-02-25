@@ -149,6 +149,7 @@ Microsoft offers free courses to build foundational knowledge.
     - [Visualize data in a Power BI report](https://learn.microsoft.com/en-us/fabric/real-time-intelligence/create-powerbi-report)
     - [What is Activator?](https://learn.microsoft.com/en-us/fabric/real-time-intelligence/data-activator/activator-introduction)
     - [Exercise - Explore Real-Time Intelligence in Fabric](https://learn.microsoft.com/en-us/training/modules/get-started-kusto-fabric/5-exercise-use-kusto-query-data-onelake)
+    - [Real-Time Intelligence documentation in Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/real-time-intelligence/)
 
 - [Labs](https://github.com/MicrosoftLearning/mslearn-fabric)
 - [Microsoft Fabric fundamentals documentation](https://learn.microsoft.com/en-us/fabric/fundamentals/)
