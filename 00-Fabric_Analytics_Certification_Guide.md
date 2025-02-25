@@ -98,6 +98,7 @@ Microsoft offers free courses to build foundational knowledge.
 - Implement a data warehouse with Microsoft Fabric
 - Work with semantic models in Microsoft Fabric
 - Administer and govern Microsoft Fabric
+- [Ingest data with Microsoft Fabric](https://learn.microsoft.com/en-us/training/paths/ingest-data-with-microsoft-fabric/)
 ---
 - [Get Started with Microsoft Fabric](https://learn.microsoft.com/en-us/training/paths/get-started-fabric/)
 
@@ -150,6 +151,9 @@ Microsoft offers free courses to build foundational knowledge.
     - [What is Activator?](https://learn.microsoft.com/en-us/fabric/real-time-intelligence/data-activator/activator-introduction)
     - [Exercise - Explore Real-Time Intelligence in Fabric](https://learn.microsoft.com/en-us/training/modules/get-started-kusto-fabric/5-exercise-use-kusto-query-data-onelake)
     - [Real-Time Intelligence documentation in Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/real-time-intelligence/)
+   
+  - [Get started with data science in Microsoft Fabric](https://learn.microsoft.com/en-us/training/modules/get-started-data-science-fabric/)
+    - [Exercise - Explore data science in Microsoft Fabric](https://learn.microsoft.com/en-us/training/modules/get-started-data-science-fabric/5-exercise-use-notebook)
 
 - [Labs](https://github.com/MicrosoftLearning/mslearn-fabric)
 - [Microsoft Fabric fundamentals documentation](https://learn.microsoft.com/en-us/fabric/fundamentals/)
