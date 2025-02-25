@@ -158,6 +158,9 @@ Microsoft offers free courses to build foundational knowledge.
   - [Administer a Microsoft Fabric environment](https://learn.microsoft.com/en-us/training/modules/administer-fabric/)
     - [What is Microsoft Fabric admin?](https://learn.microsoft.com/en-us/fabric/admin/microsoft-fabric-admin)
     - [Microsoft Power BI Cmdlets for Windows PowerShell and PowerShell Core](https://learn.microsoft.com/en-us/powershell/power-bi/overview?view=powerbi-ps)
+   
+- [Work with semantic models in Microsoft Fabric](https://learn.microsoft.com/en-us/training/paths/work-semantic-models-microsoft-fabric/)
+  - [Add measures to Power BI Desktop models](https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-measures/)
 
 - [Labs](https://github.com/MicrosoftLearning/mslearn-fabric)
 - [Microsoft Fabric fundamentals documentation](https://learn.microsoft.com/en-us/fabric/fundamentals/)
