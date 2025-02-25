@@ -161,6 +161,17 @@ Microsoft offers free courses to build foundational knowledge.
    
 - [Work with semantic models in Microsoft Fabric](https://learn.microsoft.com/en-us/training/paths/work-semantic-models-microsoft-fabric/)
   - [Add measures to Power BI Desktop models](https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-measures/)
+  - [Design scalable semantic models](https://learn.microsoft.com/en-us/training/modules/design-scalable-semantic-models/)
+    - [Data reduction techniques for Import modeling](https://learn.microsoft.com/en-us/power-bi/guidance/import-modeling-data-reduction)
+    - [DirectQuery model guidance in Power BI Desktop](https://learn.microsoft.com/en-us/power-bi/guidance/directquery-model-guidance)
+    - [Composite model guidance in Power BI Desktop]((https://learn.microsoft.com/en-us/power-bi/guidance/composite-model-guidance)
+    - [Large semantic models in Power BI Premium](https://learn.microsoft.com/en-us/power-bi/enterprise/service-premium-large-models)
+    - [Incremental refresh and real-time data for semantic models](https://learn.microsoft.com/en-us/power-bi/connect-data/incremental-refresh-overview)
+    - [Advanced incremental refresh and real-time data with the XMLA endpoint](https://learn.microsoft.com/en-us/power-bi/connect-data/incremental-refresh-xmla)
+    - [Create calculation groups](https://learn.microsoft.com/en-us/power-bi/transform-model/calculation-groups)
+    - [Let report readers use field parameters to change visuals (preview)](https://learn.microsoft.com/en-us/power-bi/create-reports/power-bi-field-parameters)
+    - [Create dynamic format strings for measures](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-dynamic-format-strings)
+    - [Exercise - Design a scalable semantic model](https://learn.microsoft.com/en-us/training/modules/design-scalable-semantic-models/7-exercise)
 
 - [Labs](https://github.com/MicrosoftLearning/mslearn-fabric)
 - [Microsoft Fabric fundamentals documentation](https://learn.microsoft.com/en-us/fabric/fundamentals/)
