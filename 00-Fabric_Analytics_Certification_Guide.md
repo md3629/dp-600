@@ -164,7 +164,7 @@ Microsoft offers free courses to build foundational knowledge.
   - [Design scalable semantic models](https://learn.microsoft.com/en-us/training/modules/design-scalable-semantic-models/)
     - [Data reduction techniques for Import modeling](https://learn.microsoft.com/en-us/power-bi/guidance/import-modeling-data-reduction)
     - [DirectQuery model guidance in Power BI Desktop](https://learn.microsoft.com/en-us/power-bi/guidance/directquery-model-guidance)
-    - [Composite model guidance in Power BI Desktop]((https://learn.microsoft.com/en-us/power-bi/guidance/composite-model-guidance)
+    - [Composite model guidance in Power BI Desktop](https://learn.microsoft.com/en-us/power-bi/guidance/composite-model-guidance)
     - [Large semantic models in Power BI Premium](https://learn.microsoft.com/en-us/power-bi/enterprise/service-premium-large-models)
     - [Incremental refresh and real-time data for semantic models](https://learn.microsoft.com/en-us/power-bi/connect-data/incremental-refresh-overview)
     - [Advanced incremental refresh and real-time data with the XMLA endpoint](https://learn.microsoft.com/en-us/power-bi/connect-data/incremental-refresh-xmla)
