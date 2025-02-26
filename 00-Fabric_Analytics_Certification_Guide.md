@@ -172,6 +172,12 @@ Microsoft offers free courses to build foundational knowledge.
     - [Let report readers use field parameters to change visuals (preview)](https://learn.microsoft.com/en-us/power-bi/create-reports/power-bi-field-parameters)
     - [Create dynamic format strings for measures](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-dynamic-format-strings)
     - [Exercise - Design a scalable semantic model](https://learn.microsoft.com/en-us/training/modules/design-scalable-semantic-models/7-exercise)
+   
+  - [Optimize a model for performance in Power BI](https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/)
+    - [Data reduction techniques for Import modeling](https://learn.microsoft.com/en-us/power-bi/guidance/import-modeling-data-reduction)
+    - [DirectQuery model guidance in Power BI Desktop](https://learn.microsoft.com/en-us/power-bi/guidance/directquery-model-guidance)
+    - [DirectQuery limitations](https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-directquery-about#implications-of-using-directquery)
+    - [DirectQuery model guidance in Power BI Desktop](https://learn.microsoft.com/en-us/power-bi/guidance/directquery-model-guidance)
 
 - [Labs](https://github.com/MicrosoftLearning/mslearn-fabric)
 - [Microsoft Fabric fundamentals documentation](https://learn.microsoft.com/en-us/fabric/fundamentals/)
