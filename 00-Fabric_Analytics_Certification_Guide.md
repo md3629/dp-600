@@ -179,14 +179,14 @@ Microsoft offers free courses to build foundational knowledge.
     - [DirectQuery limitations](https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-directquery-about#implications-of-using-directquery)
     - [DirectQuery model guidance in Power BI Desktop](https://learn.microsoft.com/en-us/power-bi/guidance/directquery-model-guidance)
 
-- [Create and manage Power BI assets](https://learn.microsoft.com/en-us/training/modules/create-manage-power-bi-assets/)
-  - [What is an on-premises data gateway?](https://learn.microsoft.com/en-us/data-integration/gateway/service-gateway-onprem)
-  - [Create and use report templates in Power BI Desktop](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-templates)
-  - [Power BI Desktop projects (PREVIEW)](https://learn.microsoft.com/en-us/power-bi/developer/projects/projects-overview)
-  - [What is lifecycle management in Microsoft Fabric?](https://learn.microsoft.com/en-us/fabric/cicd/cicd-overview)
-  - [Endorsement overview](https://learn.microsoft.com/en-us/fabric/governance/endorsement-overview)
-  - [Semantic model connectivity with the XMLA endpoint]((https://learn.microsoft.com/en-us/power-bi/enterprise/service-premium-connect-tools)
-  - [Exercise: Create reusable Power BI assets](https://learn.microsoft.com/en-us/training/modules/create-manage-power-bi-assets/5-exercise-create-reusable)
+  - [Create and manage Power BI assets](https://learn.microsoft.com/en-us/training/modules/create-manage-power-bi-assets/)
+    - [What is an on-premises data gateway?](https://learn.microsoft.com/en-us/data-integration/gateway/service-gateway-onprem)
+    - [Create and use report templates in Power BI Desktop](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-templates)
+    - [Power BI Desktop projects (PREVIEW)](https://learn.microsoft.com/en-us/power-bi/developer/projects/projects-overview)
+    - [What is lifecycle management in Microsoft Fabric?](https://learn.microsoft.com/en-us/fabric/cicd/cicd-overview)
+    - [Endorsement overview](https://learn.microsoft.com/en-us/fabric/governance/endorsement-overview)
+    - [Semantic model connectivity with the XMLA endpoint]((https://learn.microsoft.com/en-us/power-bi/enterprise/service-premium-connect-tools)
+    - [Exercise: Create reusable Power BI assets](https://learn.microsoft.com/en-us/training/modules/create-manage-power-bi-assets/5-exercise-create-reusable)
 
 - 
 - [Labs](https://github.com/MicrosoftLearning/mslearn-fabric)
