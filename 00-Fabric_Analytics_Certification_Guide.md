@@ -92,7 +92,7 @@ The exam for this certification is **Exam DP-600T00**.
 ### 3.1. Microsoft Learn (Free)
 Microsoft offers free courses to build foundational knowledge.
 
-[3.1 Microsoft Fabric Analytics Engineer](https://learn.microsoft.com/en-us/training/courses/dp-600t00)
+[Microsoft Fabric Analytics Engineer](https://learn.microsoft.com/en-us/training/courses/dp-600t00)
 - [Get Started with Microsoft Fabric](https://learn.microsoft.com/en-us/training/paths/get-started-fabric/)
 - [Implement a data warehouse with Microsoft Fabric](https://learn.microsoft.com/en-us/training/paths/work-with-data-warehouses-using-microsoft-fabric/)
 - [Work with semantic models in Microsoft Fabric](https://learn.microsoft.com/en-us/training/paths/work-semantic-models-microsoft-fabric/)
@@ -194,7 +194,7 @@ Microsoft offers free courses to build foundational knowledge.
 - Lakehouses and Synapse Analytics tutorials.
 - Power BI data modeling and visualization.
 
-### 2. Training Courses (Instructor-led or Self-paced)
+### 3.2. Training Courses (Instructor-led or Self-paced)
 Consider official courses like **DP-600T00** for in-depth training on:
 
 - [Microsoft Fabric Analytics Engineer](https://learn.microsoft.com/en-us/training/courses/dp-600t00)
@@ -202,7 +202,7 @@ Consider official courses like **DP-600T00** for in-depth training on:
 - Analytics and performance optimization.
 - **OneLake** and **Delta Lake** storage management.
 
-### 3. Hands-on Practice
+### 3.3. Hands-on Practice
 Set up a Microsoft Fabric trial (if available) or use your organization’s capacity to:
 
 - Build data pipelines to integrate multiple data sources.
