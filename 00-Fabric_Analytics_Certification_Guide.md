@@ -210,6 +210,7 @@ Set up a Microsoft Fabric trial (if available) or use your organization’s capa
   - Labs
     -   [GitHub](https://microsoftlearning.github.io/mslearn-fabric/)
     -   [MS learning](https://github.com/MicrosoftLearning/mslearn-fabric)
+    -   [Fabric samples](https://github.com/microsoft/fabric-samples)
 
 ---
 
