@@ -92,13 +92,11 @@ The exam for this certification is **Exam DP-600T00**.
 ### 1. Microsoft Learn (Free)
 Microsoft offers free courses to build foundational knowledge.
 
-[Microsoft Fabric Analytics Engineer](https://learn.microsoft.com/en-us/training/courses/dp-600t00)
+[3.1 Microsoft Fabric Analytics Engineer](https://learn.microsoft.com/en-us/training/courses/dp-600t00)
 - [Get Started with Microsoft Fabric](https://learn.microsoft.com/en-us/training/paths/get-started-fabric/)
 - [Implement a data warehouse with Microsoft Fabric](https://learn.microsoft.com/en-us/training/paths/work-with-data-warehouses-using-microsoft-fabric/)
 - [Work with semantic models in Microsoft Fabric](https://learn.microsoft.com/en-us/training/paths/work-semantic-models-microsoft-fabric/)
 - Administer and govern Microsoft Fabric
-
-[Ingest data with Microsoft Fabric](https://learn.microsoft.com/en-us/training/paths/ingest-data-with-microsoft-fabric/)
 ---
 - [Get Started with Microsoft Fabric](https://learn.microsoft.com/en-us/training/paths/get-started-fabric/)
 
@@ -188,9 +186,9 @@ Microsoft offers free courses to build foundational knowledge.
     - [Semantic model connectivity with the XMLA endpoint]((https://learn.microsoft.com/en-us/power-bi/enterprise/service-premium-connect-tools)
     - [Exercise: Create reusable Power BI assets](https://learn.microsoft.com/en-us/training/modules/create-manage-power-bi-assets/5-exercise-create-reusable)
 
-- 
-- [Labs](https://github.com/MicrosoftLearning/mslearn-fabric)
-- [Microsoft Fabric fundamentals documentation](https://learn.microsoft.com/en-us/fabric/fundamentals/)
+- [3.2 Ingest data with Microsoft Fabric](https://learn.microsoft.com/en-us/training/paths/ingest-data-with-microsoft-fabric/)
+- [3.3 Labs](https://github.com/MicrosoftLearning/mslearn-fabric)
+- [3.4 Microsoft Fabric fundamentals documentation](https://learn.microsoft.com/en-us/fabric/fundamentals/)
 - Lakehouses and Synapse Analytics tutorials.
 - Power BI data modeling and visualization.
 
