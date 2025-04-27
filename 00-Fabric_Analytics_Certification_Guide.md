@@ -15,7 +15,6 @@ The **Fabric Analytics Engineer Associate** certification validates your experti
 
 The exam for this certification is **Exam DP-600T00**.
 
--
 
 ## 2. Key Skills Transition Guide
 
@@ -98,7 +97,8 @@ Microsoft offers free courses to build foundational knowledge.
 - [Implement a data warehouse with Microsoft Fabric](https://learn.microsoft.com/en-us/training/paths/work-with-data-warehouses-using-microsoft-fabric/)
 - [Work with semantic models in Microsoft Fabric](https://learn.microsoft.com/en-us/training/paths/work-semantic-models-microsoft-fabric/)
 - Administer and govern Microsoft Fabric
-- [Ingest data with Microsoft Fabric](https://learn.microsoft.com/en-us/training/paths/ingest-data-with-microsoft-fabric/)
+
+[Ingest data with Microsoft Fabric](https://learn.microsoft.com/en-us/training/paths/ingest-data-with-microsoft-fabric/)
 ---
 - [Get Started with Microsoft Fabric](https://learn.microsoft.com/en-us/training/paths/get-started-fabric/)
 
