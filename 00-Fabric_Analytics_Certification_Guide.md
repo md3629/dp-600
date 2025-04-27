@@ -94,8 +94,8 @@ The exam for this certification is **Exam DP-600T00**.
 Microsoft offers free courses to build foundational knowledge.
 
 [Microsoft Fabric Analytics Engineer](https://learn.microsoft.com/en-us/training/courses/dp-600t00)
-- Get started with Microsoft Fabric
-- Implement a data warehouse with Microsoft Fabric
+- [Get Started with Microsoft Fabric](https://learn.microsoft.com/en-us/training/paths/get-started-fabric/)
+- [Implement a data warehouse with Microsoft Fabric](https://learn.microsoft.com/en-us/training/paths/work-with-data-warehouses-using-microsoft-fabric/)
 - Work with semantic models in Microsoft Fabric
 - Administer and govern Microsoft Fabric
 - [Ingest data with Microsoft Fabric](https://learn.microsoft.com/en-us/training/paths/ingest-data-with-microsoft-fabric/)
