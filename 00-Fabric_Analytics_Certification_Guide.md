@@ -206,10 +206,10 @@ Set up a Microsoft Fabric trial (if available) or use your organization’s capa
 - Build data pipelines to integrate multiple data sources.
 - Create and query a **Synapse Lakehouse**.
 - Develop a **Power BI** report with real-time data connections.
-
+- [End-to-end tutorials](https://learn.microsoft.com/en-us/fabric/fundamentals/end-to-end-tutorials)
   - Labs
-  -   [GitHub](https://microsoftlearning.github.io/mslearn-fabric/)
-  -   [MS learning](https://github.com/MicrosoftLearning/mslearn-fabric)
+    -   [GitHub](https://microsoftlearning.github.io/mslearn-fabric/)
+    -   [MS learning](https://github.com/MicrosoftLearning/mslearn-fabric)
 
 ---
 
