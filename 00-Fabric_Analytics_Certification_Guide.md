@@ -186,11 +186,9 @@ Microsoft offers free courses to build foundational knowledge.
     - [Semantic model connectivity with the XMLA endpoint]((https://learn.microsoft.com/en-us/power-bi/enterprise/service-premium-connect-tools)
     - [Exercise: Create reusable Power BI assets](https://learn.microsoft.com/en-us/training/modules/create-manage-power-bi-assets/5-exercise-create-reusable)
 
-- [3.2 Ingest data with Microsoft Fabric](https://learn.microsoft.com/en-us/training/paths/ingest-data-with-microsoft-fabric/)
-- 3.3 Labs
-  -   [GitHub](https://microsoftlearning.github.io/mslearn-fabric/)
-  -   [MS learning](https://github.com/MicrosoftLearning/mslearn-fabric)
-- [3.4 Microsoft Fabric fundamentals documentation](https://learn.microsoft.com/en-us/fabric/fundamentals/)
+- [Ingest data with Microsoft Fabric](https://learn.microsoft.com/en-us/training/paths/ingest-data-with-microsoft-fabric/)
+
+- [Microsoft Fabric fundamentals documentation](https://learn.microsoft.com/en-us/fabric/fundamentals/)
 - Lakehouses and Synapse Analytics tutorials.
 - Power BI data modeling and visualization.
 
@@ -208,6 +206,10 @@ Set up a Microsoft Fabric trial (if available) or use your organization’s capa
 - Build data pipelines to integrate multiple data sources.
 - Create and query a **Synapse Lakehouse**.
 - Develop a **Power BI** report with real-time data connections.
+
+  - Labs
+  -   [GitHub](https://microsoftlearning.github.io/mslearn-fabric/)
+  -   [MS learning](https://github.com/MicrosoftLearning/mslearn-fabric)
 
 ---
 
