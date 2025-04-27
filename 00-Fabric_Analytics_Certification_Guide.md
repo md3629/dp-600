@@ -19,7 +19,7 @@ The exam for this certification is **Exam DP-600T00**.
 
 ## 2. Key Skills Transition Guide
 
-### Maintain a Data Analytics Solution (25–30%)
+### 2.1 Maintain a Data Analytics Solution (25–30%)
 
 - **Implement security and governance**:
   - Implement **workspace-level access controls**.
@@ -37,7 +37,7 @@ The exam for this certification is **Exam DP-600T00**.
 
 ---
 
-### Prepare Data (45–50%)
+### 2.2 Prepare Data (45–50%)
 
 - **Get Data**
 
@@ -67,7 +67,7 @@ The exam for this certification is **Exam DP-600T00**.
 
 ---
 
-### Implement and Manage Semantic Models (25–30%)
+### 2.3 Implement and Manage Semantic Models (25–30%)
 
 - **Design and Build Semantic Models**
 
